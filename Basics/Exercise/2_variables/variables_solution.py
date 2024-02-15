@@ -11,4 +11,4 @@ last_name = "Korortyuk"
 fathers_name = "Aleksndrovich"
 print(last_name + " " + first_name + " " + fathers_name)
 #4
-print("The answer is record^one, continue")
+print("The answer is 1record, record-one, record^one, continue")
